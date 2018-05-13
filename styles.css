@@ -14,20 +14,17 @@ body {
 }
 
 
-
 #navbar li{
     list-style-type: none;
     display: inline-block;
     margin: 10px;
     margin-left: 40px;  
-
 }
 
 #navbar a {
     color:#d6c3c9;
     text-decoration-color: #d6c3c9;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 #title{
